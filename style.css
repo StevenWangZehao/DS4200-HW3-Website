@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#main {
+    font-family: Arial, sans-serif;
+    background-color: beige;
+    margin: 0;
+    padding: 20px 20px 20px 20px;
+}
+
+.A {
+    border: 3px solid black;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(220, 245, 242);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
